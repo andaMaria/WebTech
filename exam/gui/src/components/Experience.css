@@ -1,0 +1,96 @@
+.user {
+  height: 1000px;
+  width: 200px;
+  background: linear-gradient(to bottom, #c21818 0%, #4c0303 100%);
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row wrap;
+  padding: 10px;
+  margin: auto;
+}
+
+.user .username {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #4c0303 100%);
+}
+
+.user .fullName {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+
+.user .startingPoint{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+
+.user .destinationPoint{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .publicTransport {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .departureHour {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .tripDuration {
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .crowdednessLevel{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .observations{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
+.user .satisfactionLevel{
+  height: 100px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #c21818 0%, #fffdfe 100%);
+}
